@@ -7,8 +7,8 @@ distributed version control system(short for 'DVCS'), such as Git, Mercurial, Ba
 
 Git最早是在linux上开发的，两者作者都为Linus Benedict Torvalds
 windows download page：https://git-scm.com/download/win
-initial config：git config --user.name "your user_name"
-                git config --user.email xxx@xx.com
+initial config：git config --global user.name "your user_name"
+                git config --global user.email xxx@xx.com
                 git config --list (see all the configs)
                 git --version(see the version of git)
             
