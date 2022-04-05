@@ -4,3 +4,5 @@ types of version control system:
 local version control system.  Problem: cannot develop collaboratively
 centralized version control system(short for 'CVCS'), such as Cvs, Subversion, Perforce. Problem: single point of failure
 distributed version control system(short for 'DVCS'), such as Git, Mercurial, Bazzar, Darcs
+
+Git最早是在linux上开发的，两者作者都为Linus Benedict Torvalds
